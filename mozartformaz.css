@@ -1,0 +1,23 @@
+body
+{
+    background-color: #ffccaa;
+    font: 14px Tahoma;
+    text-align: justify;
+}
+
+a
+{
+    color: #a04000;
+}
+
+h1
+{
+    color:#a04000
+}
+
+img
+{
+    float: left;
+    width:110px;
+    padding: 5px 20px 5px 20px;
+}

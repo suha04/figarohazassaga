@@ -1,0 +1,63 @@
+html
+{
+    background-color: #FFCCAA;
+}
+
+body
+{
+    font: 14px Tahoma;
+}
+
+a
+{
+    color: #A04000;
+}
+
+#vorosmarty
+{
+    width: 150px;
+    padding: 5px 20px 5px 20px;
+    float: left;
+}
+
+h1
+{
+    color: #A04000;
+}
+
+
+p
+{
+    text-align: justify;
+}
+
+#figaro
+{
+    width: 195px;
+    height: auto;
+    padding: 5px 20px 5px 20px;
+    float: right;
+}
+
+table
+{
+    width: 100%;
+    display: flex;
+    align-items: flex-end;
+    padding: 0;
+}
+
+#bal
+{
+    text-align: left;
+}
+
+#kozep
+{
+    text-align: center;
+}
+
+#jobb
+{
+    text-align: right;
+}
